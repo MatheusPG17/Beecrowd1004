@@ -1,1 +1,1 @@
-#Resolução Beecrowd1004
+# Resolução Beecrowd1004
